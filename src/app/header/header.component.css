@@ -1,0 +1,41 @@
+.logo{
+  width: 30%;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 500%;
+  font-weight: bold;
+  color: #151523;
+  height: auto;
+  padding: 20px 0px;
+  align-items: center;
+}
+
+.nav-opc{
+  width: 60%;
+  height: auto;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px 0px;
+  align-items: center;
+}
+
+.opc{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 150%;
+  color: #D09D2F;
+
+}
+
+.header{
+justify-content: space-between;
+}
+
+.background{
+  background: url(/assets/inicioLow.jpg) no-repeat top center;
+  height: 650px;
+}
+
+a :hover{
+  background-color: rgba(0%, 0%, 0%, 0.3);
+}
+
+

@@ -1,0 +1,15 @@
+.descarga{
+  justify-content: space-around;
+  padding: 3% 0%;
+}
+
+.boton{
+  padding: 5% 12%;
+  background-color: #D09D2F;
+}
+
+.texto{
+  font-size: 200%;
+  font-family: 'Montserrat', sans-serif;
+  color: #151523;
+}

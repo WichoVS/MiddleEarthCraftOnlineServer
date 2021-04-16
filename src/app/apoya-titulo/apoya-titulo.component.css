@@ -1,0 +1,21 @@
+.titulo {
+  align-self: center;
+  font-family: 'New Rocker', cursive;
+  color: #D09D2F;
+  font-size: 700%;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+}
+
+.apoya{
+  justify-content: center;
+  padding: 4% 0%;
+}
+
+a{
+  height: 20%;
+  width: 20%;
+}

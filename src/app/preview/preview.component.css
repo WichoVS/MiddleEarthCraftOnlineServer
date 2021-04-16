@@ -1,0 +1,22 @@
+.images {
+  justify-content: space-between;
+  align-items: center;
+  padding: 3% 0%;
+}
+
+.big {
+  height: auto;
+  width: 43.5%;
+}
+
+.smol {
+  height: auto;
+  width: 26%;
+}
+
+img {
+  max-width: 99%;
+  height: auto;
+  border: 2px solid #D09D2F;
+  border-radius: 5px;
+}

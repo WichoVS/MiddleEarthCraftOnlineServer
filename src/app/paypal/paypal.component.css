@@ -1,0 +1,12 @@
+img{
+  width: 100%;
+  height: auto;
+}
+
+a{
+  width: 50%;
+}
+
+.paypal{
+  justify-content: center;
+}

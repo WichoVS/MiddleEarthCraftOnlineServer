@@ -1,1 +1,46 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+  margin: 0;
+  padding: 0;
+}
+html {
+  box-sizing: border-box;
+
+}
+/* inherit border-box on all elements in the universe and before and after
+*/
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+
+body {
+  font-family: "Barlow", sans-serif;
+  margin: 0;
+  background-color: #151523;
+}
+a {
+  color: white;
+  font-size: 25px;
+  text-decoration: none;
+}
+.wrapper {
+  width: 94%;
+  max-width: 1200px;
+  margin: 0 auto;
+  float: none;
+}
+
+.row::after {
+  display: table;
+  clear: both;
+}
+
+.container {
+  display: flex;
+}
+
+
+
