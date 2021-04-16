@@ -20,7 +20,6 @@ export class ServerService {
         for (let key in data)
           if (data.hasOwnProperty(key))
           this.items.push(data[key]);
-        console.log(this.items);
       });
   }
 
